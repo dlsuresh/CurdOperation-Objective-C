@@ -14,6 +14,7 @@
 		F6B0B9CA1E5DB354006304C2 /* CurdOperations.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F6B0B9C81E5DB354006304C2 /* CurdOperations.xcdatamodeld */; };
 		F6B0B9CC1E5DB354006304C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6B0B9CB1E5DB354006304C2 /* Assets.xcassets */; };
 		F6B0B9CF1E5DB354006304C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6B0B9CD1E5DB354006304C2 /* LaunchScreen.storyboard */; };
+		F6B0B9D81E5DB8F5006304C2 /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F6B0B9D71E5DB8F5006304C2 /* TableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		F6B0B9CB1E5DB354006304C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F6B0B9CE1E5DB354006304C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F6B0B9D01E5DB354006304C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6B0B9D61E5DB8F5006304C2 /* TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		F6B0B9D71E5DB8F5006304C2 /* TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				F6B0B9C01E5DB354006304C2 /* AppDelegate.m */,
 				F6B0B9C21E5DB354006304C2 /* ViewController.h */,
 				F6B0B9C31E5DB354006304C2 /* ViewController.m */,
+				F6B0B9D61E5DB8F5006304C2 /* TableViewCell.h */,
+				F6B0B9D71E5DB8F5006304C2 /* TableViewCell.m */,
 				F6B0B9C51E5DB354006304C2 /* Main.storyboard */,
 				F6B0B9CB1E5DB354006304C2 /* Assets.xcassets */,
 				F6B0B9CD1E5DB354006304C2 /* LaunchScreen.storyboard */,
@@ -156,6 +161,7 @@
 				F6B0B9C41E5DB354006304C2 /* ViewController.m in Sources */,
 				F6B0B9CA1E5DB354006304C2 /* CurdOperations.xcdatamodeld in Sources */,
 				F6B0B9C11E5DB354006304C2 /* AppDelegate.m in Sources */,
+				F6B0B9D81E5DB8F5006304C2 /* TableViewCell.m in Sources */,
 				F6B0B9BE1E5DB354006304C2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
